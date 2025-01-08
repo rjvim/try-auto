@@ -1,6 +1,6 @@
 {
   "name": "@try-auto/typescript-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "public": true,
   "license": "MIT",
   "publishConfig": {

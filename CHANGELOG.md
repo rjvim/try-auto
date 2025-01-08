@@ -1,3 +1,26 @@
+# (Wed Jan 08 2025)
+
+#### 🚀 Enhancement
+
+- feat: update lerna configuration to use independent versioning [#5](https://github.com/rjvim/try-auto/pull/5) ([@rjvim](https://github.com/rjvim))
+- feat: add lerna configuration and update package.json to include lerna as a dependency ([@rjvim](https://github.com/rjvim))
+
+#### 🐛 Bug Fix
+
+- `@try-auto/eslint-config@0.1.0`
+  - docs: update README.md to include Change 4 [#4](https://github.com/rjvim/try-auto/pull/4) ([@rjvim](https://github.com/rjvim))
+
+#### ⚠️ Pushed to `main`
+
+- `@try-auto/eslint-config@0.1.0`, `@try-auto/typescript-config@0.1.0`, `@try-auto/ui@0.1.0`
+  - Merge branch 'main' of github.com:rjvim/try-auto ([@rjvim](https://github.com/rjvim))
+
+#### Authors: 1
+
+- Rajiv Seelam ([@rjvim](https://github.com/rjvim))
+
+---
+
 # v0.3.0 (Wed Jan 08 2025)
 
 #### 🚀 Enhancement

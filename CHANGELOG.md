@@ -2,6 +2,19 @@
 
 #### 🐛 Bug Fix
 
+- `@try-auto/eslint-config@0.1.2`, `@try-auto/ui@0.1.1`
+  - Change_to_eslint [#8](https://github.com/rjvim/try-auto/pull/8) ([@rjvim](https://github.com/rjvim))
+
+#### Authors: 1
+
+- Rajiv Seelam ([@rjvim](https://github.com/rjvim))
+
+---
+
+# (Wed Jan 08 2025)
+
+#### 🐛 Bug Fix
+
 - `@try-auto/eslint-config@0.1.1`
   - docs: update README.md to include Change 7 [#7](https://github.com/rjvim/try-auto/pull/7) ([@rjvim](https://github.com/rjvim))
   - docs: update README.md to include Change 6 [#6](https://github.com/rjvim/try-auto/pull/6) ([@rjvim](https://github.com/rjvim))

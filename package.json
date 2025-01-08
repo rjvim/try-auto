@@ -36,7 +36,11 @@
       "conventional-commits",
       "released"
     ],
-    "onlyPublishWithReleaseLabel": true
+    "onlyPublishWithReleaseLabel": true,
+    "prereleaseBranches": [
+      "alpha",
+      "beta"
+    ]
   },
   "dependencies": {}
 }

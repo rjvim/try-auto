@@ -1,6 +1,6 @@
 {
   "name": "try-auto",
-  "private": true,
+  "public": true,
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
@@ -29,6 +29,7 @@
   "repository": "rjvim/try-auto",
   "author": "Rajiv <rajiv@betalectic.com>",
   "auto": {
+    "baseBranch": "main",
     "plugins": [
       "npm",
       "all-contributors",

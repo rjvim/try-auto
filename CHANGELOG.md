@@ -1,3 +1,15 @@
+# v0.2.0 (Wed Jan 08 2025)
+
+#### 🚀 Enhancement
+
+- feat: change package visibility from private to public for eslint-config, typescript-config, and ui [#2](https://github.com/rjvim/try-auto/pull/2) ([@rjvim](https://github.com/rjvim))
+
+#### Authors: 1
+
+- Rajiv Seelam ([@rjvim](https://github.com/rjvim))
+
+---
+
 # v0.1.0 (Wed Jan 08 2025)
 
 #### 🚀 Enhancement

@@ -12,18 +12,18 @@ jobs:
       - name: Prepare repository
         run: git fetch --unshallow --tags
 
-      - name: Use Node.js 12.x
+      - name: Use Node.js 22.x
         uses: actions/setup-node@v1
         with:
-          node-version: 12.x
+          node-version: 22.x
 
       - name: Cache node modules
         uses: actions/cache@v1
         with:
           path: node_modules
-          key: yarn-deps-${{ hashFiles('yarn.lock') }}
+          key: yarn-deps-${{ hashFiles('package-lock.json') }}
           restore-keys: |
-            yarn-deps-${{ hashFiles('yarn.lock') }}
+            yarn-deps-${{ hashFiles('package-lock.json') }}
 
       - name: Create Release
         env:

@@ -28,6 +28,7 @@
   "repository": "rjvim/try-auto",
   "author": "Rajiv <rajiv@betalectic.com>",
   "auto": {
+    "baseBranch": "main",
     "plugins": [
       "npm",
       "all-contributors",

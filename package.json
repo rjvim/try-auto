@@ -1,6 +1,6 @@
 {
   "name": "try-auto",
-  "public": true,
+  "private": true,
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",

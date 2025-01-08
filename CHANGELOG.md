@@ -1,3 +1,15 @@
+# v0.3.0 (Wed Jan 08 2025)
+
+#### 🚀 Enhancement
+
+- Improve_eslint [#3](https://github.com/rjvim/try-auto/pull/3) ([@rjvim](https://github.com/rjvim))
+
+#### Authors: 1
+
+- Rajiv Seelam ([@rjvim](https://github.com/rjvim))
+
+---
+
 # v0.2.0 (Wed Jan 08 2025)
 
 #### 🚀 Enhancement

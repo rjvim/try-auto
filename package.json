@@ -13,6 +13,7 @@
     "@auto-it/npm": "^11.3.0",
     "@auto-it/released": "^11.3.0",
     "auto": "^11.3.0",
+    "lerna": "^8.1.9",
     "prettier": "^3.2.5",
     "turbo": "^2.3.3",
     "typescript": "5.5.4"
@@ -35,5 +36,6 @@
       "released"
     ],
     "onlyPublishWithReleaseLabel": true
-  }
+  },
+  "dependencies": {}
 }

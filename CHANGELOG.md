@@ -1,3 +1,21 @@
+# (Fri Jan 10 2025)
+
+#### 🚀 Enhancement
+
+- feat: add prereleaseBranches configuration for alpha and beta ([@rjvim](https://github.com/rjvim))
+
+#### 🐛 Bug Fix
+
+- `@try-auto/eslint-config@0.2.0`
+  - Lint changes [#13](https://github.com/rjvim/try-auto/pull/13) ([@rjvim](https://github.com/rjvim))
+  - docs: update README.md to include Change 9 [#9](https://github.com/rjvim/try-auto/pull/9) ([@rjvim](https://github.com/rjvim))
+
+#### Authors: 1
+
+- Rajiv Seelam ([@rjvim](https://github.com/rjvim))
+
+---
+
 # (Wed Jan 08 2025)
 
 #### 🐛 Bug Fix
